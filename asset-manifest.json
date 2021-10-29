@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/conmeokeumeomeo/static/css/main.a617e044.chunk.css",
+    "main.js": "/conmeokeumeomeo/static/js/main.947c8c50.chunk.js",
+    "main.js.map": "/conmeokeumeomeo/static/js/main.947c8c50.chunk.js.map",
+    "runtime-main.js": "/conmeokeumeomeo/static/js/runtime-main.2650daef.js",
+    "runtime-main.js.map": "/conmeokeumeomeo/static/js/runtime-main.2650daef.js.map",
+    "static/js/2.d2cdaf48.chunk.js": "/conmeokeumeomeo/static/js/2.d2cdaf48.chunk.js",
+    "static/js/2.d2cdaf48.chunk.js.map": "/conmeokeumeomeo/static/js/2.d2cdaf48.chunk.js.map",
+    "static/js/3.2d952bfc.chunk.js": "/conmeokeumeomeo/static/js/3.2d952bfc.chunk.js",
+    "static/js/3.2d952bfc.chunk.js.map": "/conmeokeumeomeo/static/js/3.2d952bfc.chunk.js.map",
+    "index.html": "/conmeokeumeomeo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/conmeokeumeomeo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d2cdaf48.chunk.js.LICENSE.txt": "/conmeokeumeomeo/static/js/2.d2cdaf48.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/conmeokeumeomeo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2650daef.js",
+    "static/js/2.d2cdaf48.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.947c8c50.chunk.js"
+  ]
+}
